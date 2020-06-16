@@ -2,7 +2,7 @@
 Javascript D3 Homework
 
 
-## Main Assignment
+## Main Analysis
 
-Located in the folder '1_base_assignment'. 
+Located in the folder '1_simple_analysis. 
 
